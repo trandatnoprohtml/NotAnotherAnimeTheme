@@ -8,7 +8,7 @@
 * @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
 
-@import url(https://images2.alphacoders.com/129/1293108.jpg);
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
 
 /*
   To make editing this theme easier I recommend using Notepad++
@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://www.pixel4k.com/wp-content/uploads/2019/11/divine-sword-irelia-lol-splash-art-league-of-legends-lol_1574103959.jpg);
+  --theme-background-image: url(https://images2.alphacoders.com/129/1293108.jpg);
 
   /*
     Main Theme Color
